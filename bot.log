@@ -1,2 +1,0 @@
-2026-04-22 19:24:57,146 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 95000.0, 'timeInForce': 'GTC'}
-
